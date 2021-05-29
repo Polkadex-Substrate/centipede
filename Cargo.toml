@@ -17,7 +17,7 @@ rayon = "1.0.3"
 curv = {git = "https://github.com/Polkadex-Substrate/curv.git", default-features = false, version = "0.7"}
 
 [dependencies.bulletproof]
-git = "https://github.com/KZen-networks/bulletproofs"
+git = "https://github.com/Polkadex-Substrate/bulletproofs"
 tag = "v1.1.6"
 default-features = false
 
