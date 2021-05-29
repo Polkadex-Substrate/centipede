@@ -18,7 +18,7 @@ curv = {git = "https://github.com/Polkadex-Substrate/curv.git", default-features
 
 [dependencies.bulletproof]
 git = "https://github.com/Polkadex-Substrate/bulletproofs"
-tag = "v1.1.6"
+#tag = "v1.1.6"
 default-features = false
 
 [dev-dependencies]
